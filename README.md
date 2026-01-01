@@ -15,6 +15,27 @@ sharif404h — Programmer | Frontend Web Developer | Ethical Hacker
 
 Tagline
 Frontend engineer. Security artisan. Bug hunter. I design, I break, I secure — at scale.
+<!-- ========================= -->
+<!--  SHARIF404H GITHUB PROFILE -->
+<!-- ========================= -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=520&lines=Hi%2C+I'm+Sharif+404h;Frontend+Web+Developer;Ethical+Hacker+%7C+Bug+Hunter;Build+%E2%80%A2+Break+%E2%80%A2+Secure" />
+</h1>
+
+<p align="center">
+  <b>Programmer | Frontend Developer | Ethical Hacker</b><br>
+  <i>Silent. Precise. Dangerous.</i>
+</p>
+
+---
+
+## 🧠 About Me
+
+```txt
+> I don’t just build websites.
+> I test their limits.
+> I break systems to make them stronger.
 
 About Me
 I write clean, fast frontend code by day and hunt vulnerabilities by night. I move quietly, find the edges, and push systems to their limits so they don't fail in production. My stack is HTML/CSS/JS → React + Tailwind. My toolkit is reconnaissance, automation, and a relentless focus on resilience.
