@@ -58,9 +58,6 @@
 
 </p>
 <hr />
-
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
@@ -120,10 +117,7 @@ ___🦋(SHARIF_HOSSEN)🦋___
 ## 🔭Currently in love with:𝑳𝑼𝑩𝑵𝑨 𝑵𝑽𝑪 𝑪𝒀𝑩𝑬𝑹
 <!-- Statistics -->
 
-<h2 style="color: #44AEFB">📊 Statistics</h2>
-
-![stats_banner](https://user-images.githubusercontent.com/78341798/194534778-d662496c-ae00-4e8d-ae9b-b90912054e7f.gif)
-
+<h2 style="color: #44AEFB">📊 Statistics</h2
 <!-- Begin Stats Cards -->
 <!-- Resources:  -->
 <!-- Github & Languages Stats: https://github.com/anuraghazra/github-readme-stats --> 
@@ -174,10 +168,6 @@ ________SHARIF_HOSSEN_
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
-
-
-
-
 
 </h3>
 
