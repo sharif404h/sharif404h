@@ -1,14 +1,4 @@
 
-s͟h͟a͟r͟i͟f͟4͟0͟4͟h — typing...
-[▮] initializing... kernel: cyberpunk
-[▮▮] handshake: public → secure
-[▮▮▮] user: sharif404h authenticated
-
-sharif404h — Programmer | Frontend Web Developer | Ethical Hacker
-"Silent. Precise. Dangerous." — I build elegant interfaces, break systems to expose their truth, then secure them. No fluff. No excuses.
-
-Tagline
-Frontend engineer. Security artisan. Bug hunter. I design, I break, I secure — at scale.
 <!-- ========================= -->
 <!--  SHARIF404H GITHUB PROFILE -->
 <!-- ========================= -->
