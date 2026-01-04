@@ -43,7 +43,7 @@
     <a href="#"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhtr-tech&title=Visitors&count_bg=%230073EB"></a>
 </p>
 </hr>
-
+<center>CONTACT US</center>
 <hr />
 <p align=center>
     <a href="https://t.me/SHARIFAFI" target="_blank"><img
