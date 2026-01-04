@@ -44,7 +44,7 @@
 </p>
 </hr>
 
-<h1><p align="center">CONTACT US</p></h1>
+<b><h1><p align="center">CONTACT US</p></h1></b>
 
 <hr />
 <p align=center>
